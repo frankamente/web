@@ -5,6 +5,7 @@ body {
 .username {
     position: absolute;
     font-size: 42px;
+    margin-left: 2%;
 }
 
 .username a {
@@ -39,7 +40,7 @@ body {
 }
 
 
-/* SOCIAL NETWORKS */
+/* Post */
 
 @import url('https://fonts.googleapis.com/css?family=Karma:400,500');
 article {
