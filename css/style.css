@@ -1,17 +1,19 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(236, 236, 236);
 }
 
 .username {
     position: absolute;
     font-size: 42px;
-    color: white
 }
 
 .username a {
     text-decoration: none;
     color: cornflowerblue;
 }
+
+
+/* SOCIAL NETWORKS */
 
 .socialNetworks {
     margin-left: 45%;
@@ -34,4 +36,18 @@ body {
 .linkedin:hover {
     color: #0077b5;
     text-decoration: none;
+}
+
+
+/* SOCIAL NETWORKS */
+
+@import url('https://fonts.googleapis.com/css?family=Karma:400,500');
+article {
+    margin: 2%;
+    font-size: 20px;
+    font-family: 'Karma', serif;
+}
+
+article .title {
+    color: rgb(54, 54, 54);
 }
